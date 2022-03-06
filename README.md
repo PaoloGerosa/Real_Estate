@@ -5,6 +5,7 @@ These are the steps done in this project:
 - Data cleaning to mantain a neat database of houses (SQL).
 - Advanced statistical and machine learning methods to predict the prices (R, Python).
 - Development of a model of prevision of prices in different areas with an average error of 150 e/m2.
+
 Only the ones related to Python code, in particular to the Web scraping part, are presented in Github.
 
 # Code
